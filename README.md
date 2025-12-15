@@ -101,10 +101,10 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with **2+ years of 
 
 ## 🏆 Certifications
 
-- ✅ **AWS Certified Developer Associate**
-- 📚 **CCNA** (Pursuing)
+- ✅ **AWS Certified Devops Professional Associate**
+- 📚 **AWS Certified Solution Architect** 
 - 📚 **CCSP** (Cloud Security - Pursuing)
-- 📚 **Kubernetes Administrator** (CKA - In Progress)
+- 📚 **AZURE Certified Azure AI Developer** (CKA - In Progress)
 
 ---
 
