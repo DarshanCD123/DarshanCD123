@@ -1,187 +1,249 @@
-# Hi there 👋 Welcome to my DevOps Portfolio!
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%7C+Cloud+Architect;AWS+Certified+Developer;Infrastructure+Automation+Expert;2%2B+Years+of+Excellence" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **DevOps Engineer** and **Cloud Architect** with **2+ years of professional experience** building, scaling, and maintaining robust cloud infrastructure. I specialize in:
-
-- 🏗️ **Infrastructure as Code (IaC)** - Terraform, CloudFormation
-- 🐳 **Container Orchestration** - Kubernetes, Docker
-- 🔄 **CI/CD Automation** - Jenkins, GitHub Actions
-- ☁️ **Cloud Platforms** - AWS, Azure
-- 📊 **Monitoring & Logging** - Prometheus, Grafana, ELK Stack
-- 🔐 **DevSecOps** - Security scanning, vulnerability management
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                          DARSHAN C D                                         ║
+║                      DevOps Engineer & Cloud Architect                       ║
+║                                                                              ║
+║                     Specialized in Infrastructure Automation                 ║
+║                     2+ Years of Professional Excellence                      ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 💻 Tech Stack
+## Professional Overview
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+Senior DevOps Engineer with comprehensive expertise in designing, deploying, and maintaining scalable cloud infrastructure. Specializing in Infrastructure as Code, Container Orchestration, and CI/CD automation across multi-cloud environments (AWS, Azure).
 
-### Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+**Focus Areas:**
+- Enterprise-grade infrastructure automation and optimization
+- Kubernetes cluster management and orchestration
+- Continuous integration and deployment pipeline design
+- Cloud security and compliance implementation
+- System monitoring, observability, and incident management
 
-### Containerization & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1419?style=for-the-badge&logo=helm&logoColor=1D63ED)
+---
 
-### CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+## Core Competencies
 
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+### Infrastructure & Cloud Services
+```
+▌ Amazon Web Services (AWS)
+  └─ EC2, RDS, S3, Lambda, CloudWatch, VPC, IAM, ECS, EKS
+  └─ Multi-region architecture, High availability design
+  └─ Cost optimization and resource management
+
+▌ Microsoft Azure
+  └─ Azure VMs, App Services, Kubernetes Service (AKS)
+  └─ Azure DevOps, Azure Security Center
+
+▌ Google Cloud Platform (GCP)
+  └─ Compute Engine, Cloud Storage, GKE
+```
+
+### Infrastructure as Code & Configuration Management
+```
+▌ Terraform - Multi-cloud infrastructure provisioning
+▌ CloudFormation - AWS-native IaC solutions  
+▌ Ansible - Configuration management and automation
+```
+
+### Container & Orchestration Platform
+```
+▌ Kubernetes
+  └─ Cluster setup, configuration, and scaling
+  └─ RBAC, network policies, and security implementation
+  └─ Helm charts and package management
+  └─ Service mesh technologies (Istio, Linkerd)
+
+▌ Docker
+  └─ Image optimization and multi-stage builds
+  └─ Registry management and container security
+  └─ Docker Compose for development environments
+```
+
+### CI/CD & Pipeline Automation
+```
+▌ Jenkins - Declarative & scripted pipeline design
+▌ GitHub Actions - Workflow automation and deployment
+▌ GitLab CI - Advanced pipeline orchestration
+```
+
+### Monitoring, Logging & Observability
+```
+▌ Prometheus - Metrics collection and alerting
+▌ Grafana - Dashboard design and visualization
+▌ ELK Stack - Centralized logging and analysis
+  └─ Elasticsearch, Logstash, Kibana integration
+```
 
 ### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+```
+▌ Python - Automation scripts and tools development
+▌ Bash/Shell - System administration and automation
+▌ YAML - Configuration and infrastructure definitions
+```
 
 ---
 
-## 🎯 Key Skills
+## Professional Experience
 
-### Infrastructure & Cloud
-- ✅ AWS Services: EC2, S3, RDS, Lambda, CloudWatch, VPC, IAM, ECS, EKS
-- ✅ Multi-region & High-availability architectures
-- ✅ Cost optimization & resource management
-- ✅ Network infrastructure & security groups
+### DevOps Engineer | Tata Consultancy Services (TCS)
+**Duration:** 2+ Years | **Current Role**
 
-### DevOps & Automation
-- ✅ CI/CD pipeline design & implementation
-- ✅ Infrastructure as Code best practices
-- ✅ Configuration management
-- ✅ Automated testing & deployment
-- ✅ GitOps methodologies
+**Key Achievements:**
 
-### Containerization
-- ✅ Docker image optimization & best practices
-- ✅ Kubernetes cluster setup & management
-- ✅ Pod orchestration & service mesh
-- ✅ Resource limits & scaling policies
+• **CI/CD Pipeline Automation**
+  - Designed and implemented Jenkins pipelines reducing deployment time by 60%
+  - Automated testing frameworks with security scanning integration
+  - Implemented GitOps workflows for continuous deployment
 
-### Monitoring & Troubleshooting
-- ✅ Application & infrastructure monitoring
-- ✅ Log aggregation & analysis
-- ✅ Alerting & incident response
-- ✅ Performance optimization
+• **Kubernetes Infrastructure**
+  - Managed production Kubernetes clusters serving 1000+ containers
+  - Implemented auto-scaling policies reducing costs by 35%
+  - Configured network policies and RBAC for security compliance
 
-### Security
-- ✅ Secret management (Vault, AWS Secrets Manager)
-- ✅ IAM policies & access control
-- ✅ Container security scanning
-- ✅ Compliance & vulnerability management
+• **Infrastructure as Code**
+  - Developed Terraform modules for multi-cloud deployments
+  - Reduced infrastructure provisioning time by 70%
+  - Maintained infrastructure versioning and disaster recovery procedures
 
----
+• **DevSecOps Implementation**
+  - Integrated security scanning in CI/CD pipelines
+  - Implemented container vulnerability scanning (Trivy, Snyk)
+  - Established IAM policies and secret management practices
 
-## 📈 Experience Highlights
-
-🔹 **2+ Years at TCS** - DevOps Engineer
-- Designed and implemented CI/CD pipelines using Jenkins
-- Managed Kubernetes clusters serving 1000+ containers
-- Reduced deployment time by 60% through automation
-- Implemented IaC solutions reducing infrastructure setup time by 70%
-- Led DevSecOps initiatives improving security posture
+• **Monitoring & Incident Response**
+  - Deployed Prometheus and Grafana for comprehensive monitoring
+  - Created automated alerting rules and runbooks
+  - Reduced mean time to resolution (MTTR) by 45%
 
 ---
 
-## 🏆 Certifications
+## Certifications & Credentials
 
-- ✅ **AWS Certified Devops Professional Associate**
-- 📚 **AWS Certified Solution Architect** 
-- 📚 **CCSP** (Cloud Security - Pursuing)
-- 📚 **AZURE Certified Azure AI Developer** (CKA - In Progress)
-
----
-
-## 📦 Featured Projects
-
-### 1. **Multi-Cloud Infrastructure Automation**
-- Terraform modules for AWS & Azure infrastructure
-- Fully automated deployment pipelines
-- Cost monitoring & optimization
-
-### 2. **Kubernetes Production Cluster**
-- Scalable K8s cluster with auto-scaling
-- Helm charts for application deployment
-- Network policies & RBAC implementation
-
-### 3. **Complete CI/CD Pipeline**
-- Jenkins declarative pipelines
-- Automated testing & security scanning
-- Docker image builds & registry management
-- Production-ready deployment automation
-
-### 4. **Monitoring & Logging Stack**
-- Prometheus for metrics collection
-- Grafana for visualization
-- ELK stack for centralized logging
-- Custom alerting rules
+```
+✓ AWS Certified Developer Associate
+□ AWS Solutions Architect Professional (In Progress)
+□ CCNA Routing & Switching (Pursuing)
+□ CCSP Cloud Security Professional (Pursuing)
+□ Certified Kubernetes Administrator - CKA (In Progress)
+□ HashiCorp Certified - Terraform Associate (Planning)
+```
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+### 1. Multi-Cloud Infrastructure Automation Platform
+**Technologies:** Terraform, AWS, Azure, Ansible
+
+Developed comprehensive Infrastructure-as-Code solution automating deployment across AWS and Azure:
+- Modularized Terraform code for reusability and maintainability
+- Automated VPC/vNET provisioning with security groups/NSGs
+- RDS and managed database deployment with backup policies
+- Cost monitoring and optimization dashboards
+- Full infrastructure versioning with Git integration
+
+### 2. Kubernetes Production-Grade Cluster
+**Technologies:** Kubernetes, Helm, Docker, Ubuntu
+
+Designed and deployed enterprise Kubernetes infrastructure:
+- Multi-node cluster with master/worker node separation
+- Horizontal Pod Autoscaler (HPA) implementation
+- Helm charts for microservices deployment
+- Network policies for namespace isolation
+- RBAC configuration for access control
+- Persistent storage and backup solutions
+
+### 3. Complete CI/CD Pipeline Implementation
+**Technologies:** Jenkins, Docker, GitHub, Kubernetes
+
+End-to-end CI/CD pipeline for application deployment:
+- Declarative Jenkins pipeline with parallel stages
+- Automated unit and integration testing
+- Docker image building with security scanning
+- Artifact repository management
+- Automated Kubernetes deployment
+- Rollback and canary deployment strategies
+
+### 4. Comprehensive Monitoring & Logging Stack
+**Technologies:** Prometheus, Grafana, ELK Stack, Alertmanager
+
+Implemented complete observability solution:
+- Prometheus for metrics collection and storage
+- Custom Grafana dashboards for infrastructure and application metrics
+- ELK stack for centralized log aggregation
+- Alertmanager rules for critical incidents
+- Log parsing and analysis pipelines
+
+---
+
+## Technical Skills Matrix
+
+```
+Infrastructure as Code      ████████████████████ Proficient
+Kubernetes & Docker         ████████████████████ Proficient
+CI/CD Pipeline Design       ███████████████████░ Advanced
+AWS Services                ███████████████████░ Advanced
+DevSecOps Practices         ██████████████████░░ Intermediate
+Monitoring & Observability  ██████████████████░░ Intermediate
+Cloud Architecture          ███████████████████░ Advanced
+Automation & Scripting      ████████████████████ Proficient
+```
+
+---
+
+## Learning & Development
+
+**Currently Pursuing:**
+- Advanced Kubernetes patterns and best practices
+- AWS Solutions Architect certification
+- CCNA and cloud networking fundamentals
+- AI/ML integration with DevOps workflows
+- Advanced cloud security and compliance
+
+**Areas of Interest:**
+- Service mesh technologies (Istio, Linkerd)
+- GitOps and declarative infrastructure
+- eBPF and advanced networking
+- Observability at scale
+- Cloud-native security practices
+
+---
+
+## Contact & Professional Links
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  LinkedIn:  linkedin.com/in/darshancd123           │
+│  GitHub:    github.com/DarshanCD123                │
+│  Email:     darshan.cd123@gmail.com                │
+│  Location:  India                                  │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## Professional Statement
+
+Driven DevOps professional committed to building robust, scalable, and secure cloud infrastructure. Passionate about automation, continuous improvement, and mentoring teams on DevOps best practices. Seeking challenging opportunities to architect enterprise-grade solutions and drive digital transformation initiatives.
+
+**Career Objectives:**
+- Advance to Senior DevOps/Cloud Architect role at leading tech companies
+- Architect large-scale, multi-cloud infrastructure solutions
+- Lead DevSecOps transformation initiatives
+- Contribute to open-source DevOps tools and communities
+
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshanCD123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanCD123&layout=compact&theme=algolia&hide=html" alt="Top Languages"/>
-</div>
 
----
+**"Infrastructure Code, Automation First, Always Learning"**
 
-## 🌐 Connect With Me
+*Last Updated: December 2025*
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshancd123)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarshanCD123)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshan.cd123@gmail.com)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-- 🔧 **DevOps Best Practices 2024** - Coming Soon
-- 🐳 **Kubernetes in Production** - Coming Soon
-- ☁️ **AWS Cost Optimization Tips** - Coming Soon
-
----
-
-## 🎓 Currently Learning
-
-- 🔍 Advanced Kubernetes patterns
-- 🤖 AI/ML integration with DevOps
-- 🔐 Advanced cloud security
-- 📡 Service mesh technologies (Istio, Linkerd)
-
----
-
-### 💡 Fun Facts
-
-- ⚡ I can deploy infrastructure in minutes using Terraform
-- 🎯 Passionate about automation & efficiency
-- 🚀 Love troubleshooting & optimizing systems
-- 📚 Continuous learner & tech enthusiast
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarshanCD123&color=brightgreen" alt="Profile views" />
-  <p><strong>Thanks for visiting! Let's build amazing things together! 🚀</strong></p>
 </div>
